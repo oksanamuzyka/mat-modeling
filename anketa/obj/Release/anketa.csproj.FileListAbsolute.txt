@@ -1,0 +1,26 @@
+C:\Users\olife\source\repos\anketa\anketa\bin\Release\anketa.exe.config
+C:\Users\olife\source\repos\anketa\anketa\bin\Release\anketa.exe
+C:\Users\olife\source\repos\anketa\anketa\bin\Release\anketa.pdb
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.Form1.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.Form2.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.Form3.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.Form4.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.Properties.Resources.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.csproj.GenerateResource.cache
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.csproj.CoreCompileInputs.cache
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.exe
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.pdb
+C:\Users\olife\source\repos\anketa\anketa\obj\Release\anketa.csprojAssemblyReference.cache
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.exe
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.pdb
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\bin\Release\anketa.exe.config
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\bin\Release\anketa.exe
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\bin\Release\anketa.pdb
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.csprojAssemblyReference.cache
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.Form1.resources
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.Form2.resources
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.Form3.resources
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.Form4.resources
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.Properties.Resources.resources
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.csproj.GenerateResource.cache
+E:\КМ\4 КУРС\Мат.моделювання\anketa\anketa\anketa\obj\Release\anketa.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\olife\source\repos\anketa\anketa\bin\Debug\anketa.exe.config
+C:\Users\olife\source\repos\anketa\anketa\bin\Debug\anketa.exe
+C:\Users\olife\source\repos\anketa\anketa\bin\Debug\anketa.pdb
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.csprojAssemblyReference.cache
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.Form1.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.Properties.Resources.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.csproj.GenerateResource.cache
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.csproj.CoreCompileInputs.cache
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.exe
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.pdb
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.Form2.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.Form3.resources
+C:\Users\olife\source\repos\anketa\anketa\obj\Debug\anketa.Form4.resources
